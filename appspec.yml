@@ -2,9 +2,9 @@ version: 0.0
 os: linux
 files:
    - source: /
-     destination: /var/www/html/config
+     destination: /var/www/sh_config
 permissions:
-   - object: /var/www/html/config
+   - object: /var/www/html/sh_config
      pattern: "**"
      owner: apache
      group: apache
