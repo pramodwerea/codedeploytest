@@ -1,4 +1,5 @@
-Test32 Instructions
+Test007
+ Instructions
 ============
 1.) When server is booted run the following commands as root.
 
