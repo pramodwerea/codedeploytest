@@ -1,4 +1,4 @@
-Test1 Instructions
+Test2 Instructions
 ============
 1.) When server is booted run the following commands as root.
 
